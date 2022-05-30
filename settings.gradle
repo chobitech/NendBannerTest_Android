@@ -10,6 +10,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven {
+            // nendSDK
+            url 'https://fan-adn.github.io/nendSDK-Android-lib/library'
+        }
     }
 }
 rootProject.name = "NendBannerTest_Android"
