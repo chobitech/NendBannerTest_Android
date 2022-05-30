@@ -4,5 +4,5 @@
 Nendのバナーを表示するサンプルアプリです
 
 ## 参考
-Nend 公式サイト - https://nend.net/  
-※Nend SDKや詳細なマニュアルは、Nendへユーザ登録後にダウンロード・参照可能です
+Nend 公式サイト - https://nend.net/
+※Nend SDKや詳細なマニュアルは、Nendへのユーザ登録後にダウンロード・参照可能です
