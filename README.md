@@ -3,6 +3,7 @@
 ## 概要
 Nendのバナーを表示するサンプルアプリです  
 テスト広告IDで表示するだけのシンプルな構成です  
+  
 <img src="Screenshot_1653889651.png" alt="Screen Shot" width="300"/>
 
 ## 参考
